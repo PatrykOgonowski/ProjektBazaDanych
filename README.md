@@ -17,8 +17,11 @@ opinie(id_opinii, id_uzytkownika, id_pracownika, ocena, komentarz)
 
 GUI:
 -Formularz rezerwacji
+
 -Lista usług
+
 -Podgląd wizyt użytkownika
+
 -Panel administratora
 
 -------------------------------------------------------------------------------------
