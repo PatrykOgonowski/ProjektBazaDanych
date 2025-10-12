@@ -16,6 +16,7 @@ wizyty(id_wizyty, id_uzytkownika, id_pracownika, id_uslugi, data_wizyty, status)
 opinie(id_opinii, id_uzytkownika, id_pracownika, ocena, komentarz)
 
 GUI:
+
 -Formularz rezerwacji
 
 -Lista usług
@@ -48,8 +49,11 @@ komentarze(id_komentarza, id_zgloszenia, id_uzytkownika, wiadomosc, data)
 zalaczniki(id_zalacznika, id_zgloszenia, nazwa_pliku, data_dodania)
 
 GUI:
+
 -Formularz zgłoszenia
+
 -Lista zgłoszeń z filtrami
+
 -Podgląd zgłoszenia i komentarze
 
 -------------------------------------------------------------------------------------
@@ -72,7 +76,11 @@ frekwencja(id_frekwencji, id_uzytkownika, id_przedmiotu, data, obecny)
 nauczyciele(id_nauczyciela, imie_nazwisko, email, telefon)
 
 GUI:
+
 -Logowanie (uczeń / nauczyciel / administrator)
+
 -Nauczyciel: dodawanie ocen i obecności
+
 -Uczeń: przegląd ocen i obecności
+
 -Administrator: zarządzanie kontami
